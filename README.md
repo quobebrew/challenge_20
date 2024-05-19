@@ -91,7 +91,7 @@ The `Execution_Results` folder contains images that demonstrate the following:
    ![First Withdrawal](Execution_Results/firstwithdrawal.png)
    
 6. **Last Withdraw Details**
-   ![Last Withdraw Details](Execution_Results/last_withdrawdetails.png)
+   ![Last Withdraw Details](Execution_Results/lastwithdrawal.png)
 
 7. **Withdrawal Function: lastToWithdraw and lastWithdrawn**
    ![Last Withdraw Details](Execution_Results/LasttoWithdraw.png)
